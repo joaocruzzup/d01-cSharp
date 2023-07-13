@@ -1,5 +1,7 @@
 # Jogo Secret Number - D01 Catalisa
 
+**OBSERVAÇÃO: O repositório está apenas com os arquivos das classes do C# devido problemas encontrados a enviar os arquivos de compilação da IDE utilizada (o vscode).**
+
 ## 🎮 O que é o Secret Number?
 
 Secret Number (Número secreto) é o nome de um jogo para ser jogado em terminal criado com a partir do desafio proposto do Programa Catalisa.
